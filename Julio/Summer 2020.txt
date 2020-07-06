@@ -1,0 +1,5 @@
+pcl library
+microsoft azure kinetic
+open 3d 
+
+go over abstace and introduction
